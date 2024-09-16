@@ -8,8 +8,8 @@ Objective: The purpose of this assignment is to show how to create elementary ph
 The most important phrases will involve pattern matching and recursion.
 
 Side Notes:
-  (I.) We must use patter matching and avoid if ... else statements when possible.
-  (II.) We must run and test the fuctions in VS code of WSL.
+  \t(I.) We must use patter matching and avoid if ... else statements when possible.
+  \t(II.) We must run and test the fuctions in VS code of WSL.
 
 Write OCaml code for the following:
 
